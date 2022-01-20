@@ -1,1 +1,2 @@
-Hola- Como va, probando la segunda clase de git 
+Hola- Como va, probando la segunda clase de git
+-Muy bien! Como va todo? 
